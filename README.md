@@ -3,6 +3,9 @@
 A Machine Learning web application that predicts whether a patient is likely to have diabetes based on medical parameters using Logistic Regression.
 
 ---
+## Live Demo
+
+https://diabetes-prediction-7tqnov8ntyrjee64qbbujs.streamlit.app/
 
 ## Demo
 
